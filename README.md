@@ -1,2 +1,3 @@
-# React Basics using small small examples
-# this is a part of namaste react series 
+# React Basics 
+- Here we learn react from the  very basics using small small examples
+- This is a part of namaste react series 
